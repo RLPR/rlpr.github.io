@@ -12,7 +12,7 @@ The label proposed by the RRPR committee is an additional recognition of the wor
 
 You need to provide an URL of a GitHub repository containing:
 
-- tthe source code allowing to reproduce all experiments and/or figures of your paper,
+- the source code allowing to reproduce all experiments and/or figures of your paper,
 - a (set of) script file(s) allowing to install end execute your code,
 - a README file containing all compilation instructions.
 - a link or ref to the original associated paper.
