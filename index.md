@@ -14,22 +14,27 @@ You need to provide an URL of a GitHub repository containing:
 
 - the source code allowing to reproduce all experiments and/or figures of your paper,
 - a (set of) script file(s) allowing to install end execute your code,
-- a README file containing all compilation instructions.
+- a README.md file containing all compilation instructions.
 - a link or ref to the original associated paper.
 
 The URL must be sent to : <rrpr-repro-label@inria.fr>
+
 If the original paper cannot be publicly released or the public link is not yet known, please send a copy of your paper in this same email.
 
 ### When to apply?
 
 The submission is independent from ICPR and RRPR timelines: you can send your contribution before, during, or after these events. All submissions will be reviewed in submission order.
 
+Anyway, two deadlines:
+- **May 6**: until this date, we guarentee a response before the May 20, in order to add the label into your camera ready
+- **May 28**: until this date, you will ba able to include the label in your RRPR paper
+
 ### Which are the accepted languages/libraries/operating systems?
 
 All languages and libraries are accepted. You just need to precise the used versions.
 Concerning the operating systems, your code must compile on at least one of the followings:
 
-- Mac OSX 10.12 (Sierra)
+- Mac OSX 10.12 (Sierra) or later
 - Ubuntu 17.04 or later
 - Windows 10 or later
 
