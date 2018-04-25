@@ -26,8 +26,8 @@ If the original paper cannot be publicly released or the public link is not yet 
 The submission is independent from ICPR and RRPR timelines: you can send your contribution before, during, or after these events. All submissions will be reviewed in submission order.
 
 Anyway, two deadlines:
-- **May 6**: until this date, we guarentee a response before the May 20, in order to add the label into your camera ready
-- **May 28**: until this date, you will ba able to include the label in your RRPR paper
+- **May 11**: until this date, we guarentee a response before the May 20, in order to add the label into your camera ready
+- **May 28**: until this date, you will be able to include the label in your RRPR paper
 
 ### Which are the accepted languages/libraries/operating systems?
 
