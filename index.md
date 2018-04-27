@@ -1,3 +1,5 @@
+<p align="center"><img alt="RLPR Logo" height="200" src="/logoRLPR.png" /></p>
+
 For its second edition, the RRPR committee renews the "Reproducible Label in Pattern Recognition" in order to highlight the reproducible aspects of the RRPR and ICPR works.
 
 ### Who can apply?
