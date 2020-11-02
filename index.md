@@ -4,11 +4,12 @@ As researcher with a paper accepted to ICPR or one of its workshops, you had pro
 
 You can see the already labeled codes at this address:
 
-<p align="center">https://github.com/RLPR</p>
+<p align="center"><a href="https://github.com/RLPR>https://github.com/RLPR</a></p>
 
 ### Who can apply?
 
 Alll authors of an accepted paper at RRPR, ICPR or any ICPR workshop.
+[https://github.com/RLPR](https://github.com/RLPR)
 
 ### Why apply?
 
