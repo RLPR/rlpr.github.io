@@ -2,6 +2,10 @@
 
 As researcher with a paper accepted to ICPR or one of its workshops, you had probably devote a part of your time to write code. The Reproducible Label propose to make profitable your efforts in software development in order to valorize your research results.
 
+You can see the already labeled codes at this address:
+
+<p align="center">https://github.com/RLPR</p>
+
 ### Who can apply?
 
 Alll authors of an accepted paper at RRPR, ICPR or any ICPR workshop.
