@@ -22,21 +22,23 @@ Note that **the source code is NOT reviewed**. We only follow the README instruc
 
 ### How to apply?
 
-You need to provide an URL of a git repository (Github, Gitlab, etc.) containing:
+To apply, [follow this link](https://github.com/RLPR/LabelReviews/issues/new?template=new-review-request.md) (requires a Github account).
+
+You need to provide an URL of a public git repository (Github, Gitlab, etc.) containing:
 
 - the source code allowing to reproduce all experiments and/or figures of your paper,
 - a README.md file containing all compilation instructions.
 - a (set of) script file(s) allowing to install and execute your code,
-- a link or reference to the original associated paper.
+- a link or a reference to the original associated paper.
 
-If the original paper cannot be publicly released or the public link is not yet known, please send a copy of your paper by email.
+If the original paper cannot be publicly released or the public link is not yet known, you can send a private copy of your paper by email.
 
 ### Which are the accepted languages/libraries/operating systems?
 
 **All languages and libraries are accepted**. You just need to precise the used versions.
 Concerning the operating systems, your code must compile on at least one of the followings:
 
-- Mac OSX 10.12 (Sierra) or later
-- Ubuntu 20.04 or later
-- Debian 10.0 or later
+- Debian 9.0 or later
+- Ubuntu 18.04 or later
 - Windows 10 or later
+- Mac OSX 10.14 or later
